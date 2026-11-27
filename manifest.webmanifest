@@ -1,7 +1,7 @@
 {
   "id": "./",
-  "name": "Level Up | Curso",
-  "short_name": "Level Up Curso",
+  "name": "Curso Up · Level Up",
+  "short_name": "Curso Up",
   "description": "Aulas de criação de jogos no Roblox Studio.",
   "lang": "pt-BR",
   "dir": "ltr",
@@ -23,25 +23,25 @@
   ],
   "icons": [
     {
-      "src": "./icons/apple-touch-icon-v2.png",
+      "src": "./icons/curso/apple-touch-icon-a53607a82e4a.png",
       "sizes": "180x180",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "./icons/icon-192-v2.png",
+      "src": "./icons/curso/icon-192-622deac25923.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "./icons/icon-512-v2.png",
+      "src": "./icons/curso/icon-512-90cea3497b13.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "./icons/icon-512-maskable-v2.png",
+      "src": "./icons/curso/icon-512-maskable-a3937b8c6ee7.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
